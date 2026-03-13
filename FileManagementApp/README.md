@@ -85,6 +85,12 @@ Step 2: gcc main.c function.c -o app
        
         ./app
 
+
+## Dependencies
+- GCC compiler (or any C compiler)
+- Standard C libraries: stdio.h, dirent.h, sys/stat.h, unistd.h, time.h
+- Unix-like environment (Linux/Mac) recommended for some functions
+
  
 ## Limitations
 
