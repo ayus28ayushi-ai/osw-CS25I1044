@@ -6,7 +6,7 @@ int main(){
     int option;
 
     printf("**********************************");
-    printf("\n   Welcome to File Manager ");
+    printf("\n   Welcome to File Manager\n ");
     printf("**********************************\n\n");
 
       menu();
