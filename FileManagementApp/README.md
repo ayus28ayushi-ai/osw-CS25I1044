@@ -82,6 +82,7 @@ Step 1: First go inside FileManagementApp
   cd FileManagementApp
 
 Step 2: gcc main.c function.c -o app
+       
         ./app
 
  
